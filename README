@@ -1,0 +1,11 @@
+Tic-Tac-Toe Game
+A simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. This game allows two players to take turns playing Tic-Tac-Toe, and it includes options to reset the game or start a new one.
+
+Features
+Two-player mode: Players alternate turns between "O" and "X."
+
+Win detection: The game detects when a player wins and displays a congratulatory message.
+
+Reset button: Resets the game board and allows players to start a new game without refreshing the page.
+
+New game button: Resets the game entirely, clearing the board and re-enabling the game functionality.
