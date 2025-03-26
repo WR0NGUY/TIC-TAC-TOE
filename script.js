@@ -18,9 +18,10 @@ const winPatterns = [
 ];
 
 const resetGame = () => {
-    let turnO = true;
+    turnO = true;
     enableBoxes();
-    msgContainer.classList.add("hide")
+    msgContainer.classList.add("hide");
+    resetBtn.disabled = false;
 
 }
 
